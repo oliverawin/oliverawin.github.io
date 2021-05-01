@@ -1,8 +1,14 @@
+.container {
+    display: grid;
+    grid-template-columns: 16.66% 16.66% 16.66% 16.66% 16.66% 16.66%;
+}
+
 .header {
     background-color: #278acc;
     margin-top: 5%;
     padding: 10px;
     width: 80%;
+    grid-column: 1 / 5;
 }
 
 .footer {
@@ -10,4 +16,5 @@
     margin-top: 5%;
     padding: 10px;
     width: 80%;
+    grid-column: 1 / 5;
 }
