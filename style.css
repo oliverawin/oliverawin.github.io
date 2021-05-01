@@ -9,6 +9,7 @@
     padding: 10px;
     width: 80%;
     grid-column: 2 / 6;
+    align-content: center;
 }
 
 .footer {
@@ -17,4 +18,5 @@
     padding: 10px;
     width: 80%;
     grid-column: 1 / 6;
+    align-content: center;
 }
