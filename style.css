@@ -8,7 +8,7 @@
     margin-top: 5%;
     padding: 10px;
     width: 80%;
-    grid-column: 1 / 5;
+    grid-column: 2 / 6;
 }
 
 .footer {
@@ -16,5 +16,5 @@
     margin-top: 5%;
     padding: 10px;
     width: 80%;
-    grid-column: 1 / 5;
+    grid-column: 1 / 6;
 }
